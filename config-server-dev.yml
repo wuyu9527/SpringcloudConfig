@@ -1,5 +1,9 @@
 info:
   profile: dev
+server:
+  port:66666
+message:我好六
+
 #http://localhost:8888/config-server/dev
 #config-server是spring.application.name=config-server
 #dev是文件config-server-dev中的dev
